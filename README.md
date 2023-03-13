@@ -1,0 +1,2 @@
+# manual
+through git commands
